@@ -1,4 +1,4 @@
-# IkarusC2
+# IcarusC2
 ## Establishing covert c2 connections using azure services
 
 ### Azure Key Vault:
